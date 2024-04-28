@@ -1,2 +1,6 @@
 # bank-app
-This is a Java refresher for me. Handles new customer bank account requests. Includes file handling and data storage.
+
+Mini java refresher project that touches the core aspects of OOP and a data structure.
+
+Reads a csv file from the root directory and creates either Savings or Checking account based on the data.
+
