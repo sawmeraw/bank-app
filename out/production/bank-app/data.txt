@@ -1,0 +1,5 @@
+Jane Doe,CD7890,Checking,5400
+Mike Brown,EF1234,Checking,3150
+Alice Johnson,GH5678,Savings,8725
+Tom Clark,IJ9012,Checking, 4890
+Emily Turner,KL3456,Savings,6200
